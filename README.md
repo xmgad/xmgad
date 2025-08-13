@@ -19,7 +19,7 @@ At 16, I was flipping cars in Dubai, eventually scaling to luxury imports. Teach
 ---
 ## Connect 📎
 Please don't hesitate to reach out to me, would love to speak at all times!
-- [Email] (aalzamkan@gmail.com / amgad.alzamkan@berkeley.edu)
+- Emails: aalzamkan@gmail.com / amgad.alzamkan@berkeley.edu
 - [LinkedIn](https://www.linkedin.com/in/amgad-al-zamkan-124238237/)  
-- [Personal Website]([https://yourblog.com](https://alzamkan.com/))  
+- [Personal Website](https://alzamkan.com/)  
 
