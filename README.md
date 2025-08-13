@@ -12,7 +12,7 @@ At 16, I was flipping cars in Dubai, eventually scaling to luxury imports. Teach
 
 ## Education 🎓
 - **Master’s of Science** – Computer Science and Information Systems       
-  _**Technical University of Munich & UC Berkeley** — focus on ML, Web Application Development, Product Design, Communication and Entrepreneurship_
+  _**UC Berkeley & Technical University of Munich** — focus on ML, Web Application Development, Product Design, Communication and Entrepreneurship_
 - **Bachelor’s of Science** – Computer Science and Business Administration  
   _**Technical University of Munich** — focus on spatial computing, convolutional neural networks, and identity/facial recognition_
 
