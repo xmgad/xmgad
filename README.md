@@ -1,4 +1,4 @@
-# Hello world! 🌍
+# Hello 🌍! 
 
 _Impact is a word tossed around a lot, but what if you could actually change people's lives for the better, legitimately, with no BS attached?_
 
