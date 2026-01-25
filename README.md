@@ -7,7 +7,7 @@ _Impact is a word tossed around a lot, but what if you could actually change peo
 ## About Me
 I’m **Amgad**, a CS graduate student at TUM and UC Berkeley, focused on building software that expands people’s freedom and access to opportunity. 
 
-I’ve been hustling since I was a kid: at 7 I traded card collectibles at school and learned my first lesson about trust and risk the hard way; at 10 I went door-to-door selling toys to neighbors; at 12 I was known for buying new sneakers by selling candy out of my schoolbag with my brother. At 16, I was flipping cars in Dubai and eventually scaled to luxury imports. Somewhere along the way, I realized software is the highest-leverage way to turn scrappy ideas into systems that scale. Teachers thought I wouldn’t make it, I skipped homework until 11th grade, but I went on to study CS at TUM, do graduate research at UC Berkeley, and become a top-performing intern at Amazon, recognized across Europe for “inventing and simplifying.” 
+At 7 I traded card collectibles at school and learned my first lesson about trust and risk the hard way; at 10 I went door-to-door selling toys to neighbors; at 12 I was known for buying new sneakers by selling candy out of my schoolbag with my brother. At 16, I was flipping cars in Dubai and eventually scaled to luxury imports. Somewhere along the way, I realized software is the highest-leverage way to turn scrappy ideas into systems that scale. Teachers thought I wouldn’t make it, I skipped homework until 11th grade, but I went on to study CS at TUM, do graduate research at UC Berkeley, and become a top-performing intern at Amazon, recognized across Europe for “inventing and simplifying.” 
 
 A life worth living needs the good and the bad parts, otherwise the story’s boring.
 
