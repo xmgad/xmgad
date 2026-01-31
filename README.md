@@ -11,7 +11,7 @@ I've been hustling since I was a kid: trading cards at 7, selling door-to-door a
 
 My philosophy is simple: No one gets to write my story but me. I want to maximize impact and upside. I want to build ambitious products, live intensely, be known for my craft and use the leverage to create real opportunity for people who start with less.
 
-If you're building something hard or just want to chat, feel free to reach out.
+If you're building something interesting or just want to chat, feel free to reach out.
 
 ---
 
