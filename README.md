@@ -1,18 +1,18 @@
 # Hello 🌍! 
 
-_Today, we're at a point where man and software are inseperable. Love or hate innovation, to me, that makes technology the gateway to having real impact in people's lives._
+_I’m building a life with stakes. Software is my lever, because it turns bold ideas into systems that scale._
 
 ---
 
 ## About Me
 I’m **Amgad**,  a CS graduate student at TUM and UC Berkeley, building software that makes complex things more accessible, especially in products that help people learn, work, and move faster.
 
-At 7 I traded card collectibles at school and learned my first lesson about getting scammed; at 10 I went door-to-door selling toys to neighbors; at 12 I was known for buying new sneakers by selling candy out of my schoolbag with my brother. At 16, I was flipping cars in Dubai and eventually scaled to luxury imports.
-Teachers underestimated me early on, honestly, I gave them reasons to. I didn’t take school seriously until the final years because I only worried about personal projects I cared about. I learned the hard way that talent without discipline doesn’t scale and I flipped learning into a system I could improve. It lead me to study CS at TUM, graduate research at UC Berkeley, and nomination for my time at Amazon. 
+I've been building things since I was a kid: Trading cards at 7, selling door-to-door at 10, running a schoolbag candy hustle at 12. By 16, I was flipping cars in Dubai and scaling to luxury imports from Oman.
+Teachers underestimated me early on. I didn't take school seriously until I realized talent without discipline is just wasted potential. Once I treated learning like a system to optimize, everything changed. That led to CS and research at TUM & UC Berkeley, and Amazon, where I was recognized for simplifying complex problems. That led to CS and research at TUM & UC Berkeley, and Amazon, where I was recognized as one of Europe's top grad student's for simplifying complex problems.
 
-I always had curiosity about the world, and obsession maximizing my life and its opportunities in every metric, a 'why not' mentality, and all that naturally lead me to technology, the bridge to all things and every corner of this world. 
+My philosophy is simple: No one gets to write my story but me. I want to maximize impact and upside. I want to build ambitious products, live intensely, be known for my craft and use the leverage to create real opportunity for people who start with less.
 
-A life worth living needs the good and the bad parts, and one on your own terms, otherwise the story’s boring.
+If you're building something hard or want to talk about making ambitious ideas real, reach out.
 
 ---
 
