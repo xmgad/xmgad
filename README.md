@@ -22,7 +22,7 @@ A life worth living needs the good and the bad parts, and one on your own terms,
 ---
 ## Connect 🤝
 Please don't hesitate to reach out to me, would love to speak at all times!
-- Emails: aalzamkan@gmail.com / amgad.alzamkan@berkeley.edu
+- Emails: aalzamkan@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/amgad-al-zamkan-124238237/)  
 - [Personal Website](https://alzamkan.com/)  
 
