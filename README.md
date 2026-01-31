@@ -1,6 +1,6 @@
 # Hello 🌍! 
 
-_If you spend too much time with me, I'll brainwash you into believing that you can achieve anything_
+_._
 
 ---
 
