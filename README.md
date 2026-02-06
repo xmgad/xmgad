@@ -1,6 +1,6 @@
 # Hello 🌍! 
 
-_I’m building a life with stakes. Software is my lever, because it turns bold ideas into systems that scale._
+_I’m building a life with stakes. Software is my lever._
 
 ---
 
