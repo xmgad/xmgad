@@ -1,6 +1,5 @@
 # Hello 🌍! 
 
-## About Me
 I’m **Amgad**,  a CS graduate student at TUM and UC Berkeley, building tech that move the world forward.
 
 Life speedrun: Trading cards at 7, selling door-to-door at 10, candy sales from schoolbag at 12. At 16, I was flipping cars in Dubai and scaled to luxury imports from Oman. Mant teachers didn't think much of me early on, and I gave them plenty of reasons to. I didn't take school seriously until I realized talent without discipline is wasted potential. Once I treated learning like a system to optimize, everything changed. That led to CS and research at TUM & UC Berkeley, and Amazon, where I was recognized as one of Europe's top grad students for simplifying complex problems.
