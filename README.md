@@ -1,9 +1,5 @@
 # Hello 🌍! 
 
-_I’m building a life with stakes and technology is my lever._
-
----
-
 ## About Me
 I’m **Amgad**,  a CS graduate student at TUM and UC Berkeley, building tech that move the world forward.
 
