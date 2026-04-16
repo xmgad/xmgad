@@ -15,7 +15,7 @@ If you're building something interesting or just want to chat, feel free to reac
 ## Education 🎓
 - **Master’s of Science** – Computer Science and Information Systems       
   _**UC Berkeley & Technical University of Munich** — focus on Applied ML, Web Application Development, Product Design, Communication and Entrepreneurship_
-- **Bachelor’s of Science** – Computer Science and Business Economics  
+- **Bachelor’s of Science** – Computer Science  
   _**Technical University of Munich** — focus on Object-Oriented Programming, Database Systems, Enterprise Software Engineering, Spatial Computing and CNN's, Economics and BPM_
 
 ---
