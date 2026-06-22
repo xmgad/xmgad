@@ -1,4 +1,4 @@
-# Hello 🌍! 
+# مرحبا 🌍! 
 
 I’m **Amgad**,  CS & ML at UC Berkeley and TU Munich, building tech that move the world forward.
 
