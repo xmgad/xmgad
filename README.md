@@ -1,6 +1,6 @@
 # مرحبا 🌍! 
 
-I’m **Amgad**,  CS & ML at UC Berkeley and TU Munich, building tech that move the world forward.
+I’m **Amgad**,  CS & ML at UC Berkeley and TU Munich, building tech that moves the world forward.
 
 
 I grew up and studied between the Middle East, Europe, and the Bay Area.
