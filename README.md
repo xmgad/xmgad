@@ -1,4 +1,4 @@
-# مرحبا 🌍! 
+🌍! 
 
 I’m **Amgad**,  CS & ML at UC Berkeley and TU Munich, building tech that moves the world forward.
 
@@ -25,5 +25,4 @@ If you're building something interesting or just want to chat, feel free to reac
 Please don't hesitate to reach out to me, would love to speak at all times!
 - Emails: aalzamkan@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/amgad-al-zamkan-124238237/)  
-- [Personal Website](https://alzamkan.com/)  
 
